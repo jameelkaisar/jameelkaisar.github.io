@@ -1,0 +1,4 @@
+/* Disable ion-icon alt text */
+ion-icon {
+    pointer-events: none;
+}
